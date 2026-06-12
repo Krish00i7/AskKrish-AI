@@ -4,8 +4,8 @@ __pycache__/
 *.pyo
 *.pyd
 
+# uv
 .python-version
-
 # Build files
 build/
 dist/
